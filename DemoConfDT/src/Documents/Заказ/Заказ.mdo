@@ -71,7 +71,7 @@
   </extendedListPresentation>
   <dataHistory>Use</dataHistory>
   <numberType>String</numberType>
-  <numberLength>9</numberLength>
+  <numberLength>10</numberLength>
   <numberAllowedLength>Variable</numberAllowedLength>
   <checkUnique>true</checkUnique>
   <autonumbering>true</autonumbering>
